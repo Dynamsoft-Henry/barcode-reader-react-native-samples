@@ -1,6 +1,6 @@
-# Dynamsoft Barcode Reader samples for React Native editions
+# Dynamsoft Barcode Reader samples for React Native edition
 
-This repository contains multiple samples that demonstrates how to use the [Dynamsoft Barcode Reader](https://www.dynamsoft.com/barcode-reader/overview/) React Native Editions.
+This repository contains multiple samples that demonstrates how to use the [Dynamsoft Barcode Reader](https://www.dynamsoft.com/barcode-reader/overview/) React Native Edition.
 
 ## Requirements
 
