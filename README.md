@@ -18,10 +18,9 @@ This repository contains multiple samples that demonstrates how to use the [Dyna
 
 ## Samples
 
-| Sample Name | Description | 
-| ----------- | ----------- | 
-| `HelloWorld` | This is a sample that illustrates the simplest way to recognize barcodes from video streaming with Dynamsoft Barcode Reader React Native SDK. | 
-
+| Sample Name | Description |
+| ----------- | ----------- |
+| `HelloWorld` | This is a sample that illustrates the simplest way to recognize barcodes from video streaming with Dynamsoft Barcode Reader React Native SDK. |
 
 ## Quick Start
 
